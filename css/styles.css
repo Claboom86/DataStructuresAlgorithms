@@ -1,0 +1,83 @@
+form {
+    height: 330px;
+    width: 450px;
+    background: darkolivegreen;
+    position: relative;
+    margin: 0 auto;
+    top: 30px;
+    border-radius: 10px;
+}
+
+.input-title {
+    display: block;
+    height: 35px;
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+}
+
+.input-description {
+    display: block;
+    height: 100px;
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 75px;
+    border-radius: 5px;
+}
+
+button.submit {
+    display: block;
+    position: relative;
+    height: 35px;
+    width: 150px;
+    border: none;
+    margin: 0 auto;
+    top: 100px;
+    border-radius: 5px;
+}
+
+.bug {
+    background-color: black;
+    height: 270px;
+    width: 450px;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 10px;
+    top: 50px;
+}
+
+.display-title {
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+
+.display-description {
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+
+.time {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 35px;
+}
+
+button.checked {
+    display: block;
+    position: relative;
+    height: 35px;
+    width: 35px;
+    border: none;
+    margin: 0 auto;
+    top: 130px;
+    border-radius: 5px;
+}
+
